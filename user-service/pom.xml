@@ -105,12 +105,7 @@
 					<repository>dailycodebuffer/user-service</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
-					<server>
-					      <id>docker.io</id>
-     					      <username>rajeshcn02</username>
-                                              <password>03af4ff1-efe1-4fef-9b7a-8724f7ac4498</password>
-                                        </server>
-
+					
 				</configuration>
 				<dependencies>
 					<!-- To make this work on JDK 9+ -->
